@@ -1,0 +1,11 @@
+# Cache y temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos temporales o de sistema
+*.log
+.DS_Store
+Thumbs.db
