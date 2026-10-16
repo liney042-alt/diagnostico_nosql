@@ -21,7 +21,7 @@ Este documento contiene la resolución correspondiente a la Parte A: Diagnóstic
 
 ## Parte A: Diagnóstico Teórico
 
-###1. ¿Qué representan una tabla, una fila y una clave primaria?
+### 1. ¿Qué representan una tabla, una fila y una clave primaria?
 Tabla: Representa un conjunto homogéneo de entidades u objetos del negocio.
 Ejemplo: La tabla equipos.
 Fila (o registro): Representa una instancia única e individual dentro de esa entidad.
